@@ -1,3 +1,3 @@
 # demo
 this is a demo repo
-author - pranai
+author - pranai nakka
